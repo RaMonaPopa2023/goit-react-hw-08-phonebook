@@ -1,5 +1,4 @@
 import React from 'react';
-// import styles from './ContactList.module.css';
 import ContactListItem from './ContactListItem';
 import { Box } from '@chakra-ui/react';
 

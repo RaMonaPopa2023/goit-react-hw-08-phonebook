@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './ContactList.module.css';
 import { Box, Button } from '@chakra-ui/react';
 
 const ContactListItem = ({ contact, onDeleteContact }) => {
