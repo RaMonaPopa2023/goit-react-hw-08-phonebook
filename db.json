@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "dia@test.com",
+      "password": "$2a$10$Zu6Po5H5M.87bBZ.k0RJiOPt3ku0XtjWXf0saA/u9WiLySbk4TfJ6",
+      "id": 1
+    },
+    {
+      "email": "ram@test.com",
+      "password": "$2a$10$uVxE.ol9o17262GwCER2kO9S/hImdm2uJaY1dhX/rvSNBB4lpFzza",
+      "id": 2
+    }
+  ]
+}
